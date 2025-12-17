@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Adolfo
 
-<!--
-**Adolfds/Adolfds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cybersecurity (Blue Team) student**, currently focused on:
+- SOC operations
+- Defensive security
+- Log analysis
+- Incident response
 
-Here are some ideas to get you started:
+## Current Focus:
+- Linux & Windows internals
+- Security logging and monitoring
+- Python for security automation
+- Building a home SOC lab (Wazuh, Sysmon, Elastic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- Data Science & Python
+- Strong analytical mindset
+- Experience with data analysis, automation and scripting
+
+## Main Projects
+- 🔵 Blue Team Portfolio (SOC lab, detection rules, IR reports)
+- 🐍 Python projects (automation, analysis)
+- 📘 Learning diary & technical notes
+
+## Location
+Curitiba, Brazil
+
+> This profile documents my hands-on journey into defensive cybersecurity.

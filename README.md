@@ -1,28 +1,33 @@
-## Hi, I'm Adolfo
+# Hi, I'm Adolfo Daniel Santos 👋
 
-I'm a **Cybersecurity (Blue Team) student**, currently focused on:
-- SOC operations
-- Defensive security
-- Log analysis
-- Incident response
+I'm currently transitioning into **Cybersecurity**, with a strong focus on **Blue Team / Defensive Security**.
 
-## Current Focus:
-- Linux & Windows internals
-- Security logging and monitoring
-- Python for security automation
-- Building a home SOC lab (Wazuh, Sysmon, Elastic)
+My learning approach prioritizes:
+- solid system fundamentals
+- hands-on labs
+- documentation and reproducibility
+- defensive thinking (SOC, detection, incident response)
 
-## Background
-- Data Science & Python
-- Strong analytical mindset
-- Experience with data analysis, automation and scripting
+## 🔵 Current Focus
+- Blue Team / SOC fundamentals
+- Linux and Windows internals
+- Log analysis and monitoring
+- Python scripting for automation and analysis
+- SIEM concepts (Wazuh, Elastic)
 
-## Main Projects
-- 🔵 Blue Team Portfolio (SOC lab, detection rules, IR reports)
-- 🐍 Python projects (automation, analysis)
-- 📘 Learning diary & technical notes
+## 🧪 Main Project
+🔗 **Blue Team Portfolio**  
+A long-term, structured repository documenting my progression through:
+- system fundamentals
+- defensive labs
+- detection logic
+- incident response concepts
 
-## Location
-Curitiba, Brazil
+👉 https://github.com/Adolfds/blue-team-portfolio
 
-> This profile documents my hands-on journey into defensive cybersecurity.
+## 📍 Location
+Curitiba, Brazil  
+Open to remote opportunities and continuous learning.
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/adolfodsantos/

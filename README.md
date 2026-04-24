@@ -1,25 +1,14 @@
-Hi, I'm Adolfo Daniel Santos 👋  
-I build a hands-on Blue Team portfolio focused on SOC fundamentals, detection thinking, and incident response.
+## Hi, I'm Adolfo 👋
 
-My approach prioritizes:
-- strong system fundamentals (Linux/Windows internals)
-- hands-on labs with reproducible documentation
-- log-first thinking (events → signals → detections)
-- automation mindset with Python
+LLM Code Trainer & Dataset Quality Reviewer at Revelo.
+I design and audit coding tasks for code-generation datasets 
+across Python, TypeScript, JavaScript, C, and C++.
 
-🔵 Current Focus
-- Blue Team / SOC fundamentals
-- Linux + Windows internals
-- Log analysis and monitoring
-- Python scripting for automation and analysis
-- SIEM concepts (Wazuh, Elastic)
+**Current focus:** prompt engineering, unit test design, 
+branch coverage analysis, and complexity calibration for LLM training.
 
-🧪 Main Project
-🔗 Blue Team Portfolio  
-👉 https://github.com/Adolfds/blue-team-portfolio
+**Stack:** Python · TS/JS · C/C++ · React · Tauri · Flask · SQLite · Docker
 
-📍 Location
-Curitiba, Brazil — open to remote opportunities.
-
-🔗 Links
-LinkedIn: https://www.linkedin.com/in/adolfodsantos/
+📍 Curitiba, Brazil · Remote · EN/PT
+🔗 [LinkedIn](https://linkedin.com/in/adolfodsantos)
+📧 danielsantosptc@gmail.com
